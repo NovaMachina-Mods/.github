@@ -4,7 +4,7 @@ Organization responsible for creating some fun Minecraft Mods
 
 # Discord
 
-The NovaMachina Mods [discord server](https://discord.gg/CJyAkuw) where you can chat with other NovaCore users and the developers.
+The NovaMachina Mods [discord server](https://discord.gg/CJyAkuw) where you can chat with other NovaMachina Mods users and the developers.
 
 # License
 
